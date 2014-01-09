@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<com.github.herong.tools.jperformance.core.model.InitParams>
+	<path></path>
+	<port>0</port>
+	<protocol></protocol>
+	<connect>0</connect>
+	<encoding>UTF-8</encoding>
+	<url>http://192.168.16.7:7100/web/ajax.do</url>
+	<response>0</response>
+	<threadCnt>20</threadCnt>
+	<success>20</success>
+	<faliure>0</faliure>
+	<tatoalTime>511</tatoalTime>
+	<avgTime>25</avgTime>
+	<reqParams>
+		<entry>
+			<string>Accept-Language</string>
+			<string>zh-cn</string>
+		</entry>
+		<entry>
+			<string>Host</string>
+			<string>sb-app-09.hnisi.com.cn:7001</string>
+		</entry>
+		<entry>
+			<string>X-Requested-With</string>
+			<string>XMLHttpRequest</string>
+		</entry>
+		<entry>
+			<string>Referer</string>
+			<string>http://sb-app-09.hnisi.com.cn:7001/web/ggfw/index.html#/wsyw
+			</string>
+		</entry>
+		<entry>
+			<string>Accept-Encoding</string>
+			<string>gzip, deflate</string>
+		</entry>
+		<entry>
+			<string>User-Agent</string>
+			<string>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64;
+				Trident/5.0)</string>
+		</entry>
+		<entry>
+			<string>Connection</string>
+			<string>Keep-Alive</string>
+		</entry>
+		<entry>
+			<string>Content-Type</string>
+			<string>application/x-www-form-urlencoded; charset=UTF-8</string>
+		</entry>
+		<entry>
+			<string>Accept</string>
+			<string>application/json, text/plain, */*</string>
+		</entry>
+		<entry>
+			<string>Pragma</string>
+			<string>no-cache</string>
+		</entry>
+	</reqParams>
+	<body>_isModel=true&amp;MenuId=undefined&amp;params={"oper":"QyxxwhAction.save","datas":{"ncm_gt_企业基本信息":{"params":{"审核机构":"440100","企业所在区域":"440103","企业性质":"10","行业类型":"0200","所属产业":"1","企业名称":"1","组织机构代码":"1","营业执照号码":"1","法人联系电话":"1","法定代表人":"1","企业联系人":"1","企业联系电话":"1","企业注册地址":"1","传真":"1","电子邮箱":"1","邮政编码":"1","是否纳入监测范围":"1"}}}}
+	</body>
+</com.github.herong.tools.jperformance.core.model.InitParams>
